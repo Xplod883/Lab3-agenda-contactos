@@ -1,0 +1,1 @@
+Desarrollar una aplicación de escritorio que permita gestionar una lista de contactos. La aplicación debe permitir agregar, eliminar, modificar y mostrar contactos, así como guardar y cargar la lista de contactos desde un archivo.
